@@ -12,7 +12,7 @@ body {
   flex-direction: row;
   justify-content: space-between;
   border-bottom: solid 2px rgba(1, 1, 201, 0.486);
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   padding: 10px;
   background-color: white;
 }
@@ -41,7 +41,7 @@ a {
 
 .main-container {
   display: flex;
-  font-family: "Fira Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   flex-direction: row;
   /* border: solid 5px red; */
   justify-content: center;
